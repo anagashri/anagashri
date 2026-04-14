@@ -1,5 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anaghashree 
-Backend developer with experience in building robust APIs and scalable services using Java, Spring Boot, and PostgreSQL.  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anaghashree.
+
+
+I am a Backend developer with experience in building robust APIs and scalable services using Java, Spring Boot, and PostgreSQL.  
 I enjoy solving complex problems, optimizing performance, and designing clean, maintainable backend systems. 
 Experienced in REST APIs, microservices, and working in fast-paced agile teams.  Always open to learning new technologies and building impactful products.  
 * 🌍  I'm based in Bengaluru
